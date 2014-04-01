@@ -229,7 +229,7 @@ public class PgmProj {
           pgmProj.updateBeliefs();
           
          }
-         
+         System.out.println("test");
          for(int i=0; i< probEv.length;i++) {
              
              System.out.println(probEv[i]);
